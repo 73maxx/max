@@ -1,9 +1,0 @@
-{
-  "name": "pearl-router",
-  "version": "0.1.0",
-  "description": "Routes each model request between Opus 5.5 (medium) and Sonnet 5.5 (medium) by prompt type and workload",
-  "types": "./types/index.d.ts",
-  "author": {
-    "name": "73maxx"
-  }
-}

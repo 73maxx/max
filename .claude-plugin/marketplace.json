@@ -1,7 +1,0 @@
-{
-  "name": "max",
-  "owner": { "name": "73maxx" },
-  "plugins": [
-    { "name": "pearl-router", "source": "./pearl-router", "description": "Auto-switches between Opus 5.5 medium and Sonnet 5.5 medium by prompt type and workload" }
-  ]
-}
